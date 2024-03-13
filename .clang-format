@@ -1,0 +1,11 @@
+BasedOnStyle: Google
+IndentWidth: 4
+SpaceBeforeParens: Always
+AlignConsecutiveDeclarations: true
+AlignConsecutiveAssignments: true
+SpaceAfterCStyleCast: true
+AllowShortFunctionsOnASingleLine: false
+AllowShortCaseLabelsOnASingleLine: true
+SortIncludes: Never
+DerivePointerAlignment: false
+PointerAlignment: Right
